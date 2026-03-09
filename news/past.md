@@ -35,6 +35,7 @@ title: "Past News"
 
 <div class="news-item">
 <h3>Special Journal Issues &amp; Editorial Roles</h3>
+<span class="news-date">2020&ndash;2022</span>
 <p>The lab hosted special issues and editorial roles in:</p>
 <ul>
 <li><a href="https://www.jove.com/methods-collections/576">Journal of Visualized Experiments</a> (Methods Collection)</li>
