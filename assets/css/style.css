@@ -133,6 +133,10 @@ blockquote p:last-child { margin-bottom: 0; }
 
 .nav-item { position: relative; }
 
+.nav-expand {
+  display: none;  /* hidden on desktop, shown on mobile */
+}
+
 .nav-link {
   color: rgba(255,255,255,0.85);
   padding: 0.4rem 0.7rem;
@@ -504,6 +508,20 @@ blockquote p:last-child { margin-bottom: 0; }
     margin-top: 0.25rem;
     border: none;
   }
+  .nav-item { display: flex; flex-wrap: wrap; align-items: center; }
+  .nav-link { flex: 1; }
+  .nav-expand {
+    display: block;
+    background: none;
+    border: none;
+    color: rgba(255,255,255,0.7);
+    font-size: 1.1rem;
+    padding: 0.4rem 0.75rem;
+    cursor: pointer;
+    transition: transform 0.2s var(--ease);
+  }
+  .nav-item.open > .nav-expand { transform: rotate(180deg); }
+  .nav-dropdown { width: 100%; }
   .nav-dropdown a { color: rgba(255,255,255,0.8); background: none; }
   .nav-dropdown a:hover { background: rgba(255,255,255,0.1); color: white; }
   .nav-item:hover .nav-dropdown { display: none; }

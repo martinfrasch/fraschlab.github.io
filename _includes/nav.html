@@ -7,6 +7,7 @@
       <li class="nav-item">
         <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
         {% if item.children %}
+        <button class="nav-expand" aria-label="Expand {{ item.title }} submenu">&#9662;</button>
         <ul class="nav-dropdown">
           {% for child in item.children %}
           <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
