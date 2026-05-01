@@ -1,15 +1,15 @@
 # Research keyword frequencies - extracted from PubMed publication titles and abstracts
 # Auto-updated monthly via GitHub Actions
-# Last updated: 2026-04-01
+# Last updated: 2026-05-01
 
 - word: fetal
   weight: 95
+- word: university
+  weight: 79
 - word: department
   weight: 78
-- word: university
-  weight: 78
 - word: doi
-  weight: 59
+  weight: 60
 - word: canada
   weight: 45
 - word: obstetrics
@@ -17,7 +17,7 @@
 - word: research
   weight: 39
 - word: information
-  weight: 32
+  weight: 33
 - word: frasch
   weight: 32
 - word: gynecology
@@ -32,24 +32,24 @@
   weight: 28
 - word: heart
   weight: 27
+- word: washington
+  weight: 24
 - word: medicine
   weight: 24
-- word: washington
+- word: development
+  weight: 24
+- word: health
   weight: 24
 - word: brain
   weight: 24
-- word: development
-  weight: 23
-- word: health
+- word: seattle
   weight: 23
 - word: time
   weight: 23
-- word: seattle
+- word: usa
   weight: 23
 - word: human
-  weight: 22
-- word: usa
-  weight: 22
+  weight: 23
 - word: fhr
   weight: 22
 - word: universit
