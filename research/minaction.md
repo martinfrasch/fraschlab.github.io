@@ -23,4 +23,4 @@ The core idea is that principles governing optimal information flow and energy d
 
 This website is an interactive summary of the manuscript found at [philsci-archive.pitt.edu/26949/](https://philsci-archive.pitt.edu/26949/). All ideas are interpretations of the source manuscript by Martin G. Frasch.
 
-[Visit minAction.net &rarr;](https://sites.google.com/frasch.ca/minaction-net/start)
+[Visit minAction.net &rarr;](https://minaction.net)

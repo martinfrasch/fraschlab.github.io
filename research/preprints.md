@@ -16,3 +16,4 @@ Our preprints and protocols are available across multiple open-access platforms.
 - [ResearchSquare](https://www.researchsquare.com/browse?author=martin%20G.%20frasch&offset=0&status=all) &mdash; Multidisciplinary preprint platform
 - [Authorea](https://www.authorea.com/users/392949) &mdash; Collaborative research writing platform
 - [Zenodo](https://zenodo.org/search?q=martin%20frasch&l=list&p=1&s=10&sort=bestmatch) &mdash; Open-access research repository
+- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10529575) &mdash; Social Science Research Network

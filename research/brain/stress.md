@@ -22,11 +22,11 @@ A key finding: **stressed fetuses entrain their heartbeat to the maternal heartb
 
 ## Selected Publications
 
+### From the Frasch Lab
+
 <ul class="pub-list">
-<li><a href="https://doi.org/10.1257/aer.20141406">Economic impact of prenatal stress on long-term outcomes</a> &mdash; <em>American Economic Review</em></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0301008217300369">Psychosocial stress during pregnancy: associations with preterm birth and neurodevelopment</a> &mdash; <em>Progress in Neurobiology</em></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5179252/">Perinatal stress and fetal programming</a> &mdash; PMC article</li>
-<li><a href="https://www.frontiersin.org/articles/10.3389/fphys.2018.01044/full">Placental calcification and prenatal stress markers</a> &mdash; <em>Frontiers in Physiology</em></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5179252/">Perinatal stress and fetal programming</a> &mdash; Shapiro, Fraser, Frasch, Séguin, <em>J Perinat Med</em>, 2013</li>
+<li><a href="https://www.frontiersin.org/articles/10.3389/fphys.2018.01044/full">Placental calcification and prenatal stress markers</a> &mdash; Wallingford et al., <em>Frontiers in Physiology</em>, 2018</li>
 <li><a href="https://arxiv.org/abs/1801.00257">Neurobiology of prenatal stress effects</a> &mdash; arXiv preprint</li>
 <li><a href="https://arxiv.org/abs/1901.00099">Microglial memory of prenatal inflammatory stress</a> &mdash; arXiv preprint</li>
 <li><a href="https://arxiv.org/abs/1902.09746">Maternal stress biomarkers via fetal-maternal ECG</a> &mdash; arXiv preprint</li>
@@ -34,6 +34,13 @@ A key finding: **stressed fetuses entrain their heartbeat to the maternal heartb
 <li><a href="https://arxiv.org/abs/1904.06377">Vitamin D and cortisol interactions in prenatal stress</a> &mdash; arXiv preprint</li>
 <li><a href="https://arxiv.org/abs/2005.05787">Early biomarkers of prenatal stress: a review</a> &mdash; arXiv preprint</li>
 <li><a href="https://arxiv.org/abs/2011.02000">ECG-based stress detection using machine learning</a> &mdash; arXiv preprint</li>
+</ul>
+
+### Supporting Research from the Field
+
+<ul class="pub-list">
+<li><a href="https://doi.org/10.1257/aer.20141406">Family Ruptures, Stress, and the Mental Health of the Next Generation</a> &mdash; Persson & Rossin-Slater, <em>American Economic Review</em>, 2018 (economic impact of prenatal stress on long-term outcomes)</li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0301008217300369">Psychosocial stress during pregnancy: associations with preterm birth and neurodevelopment</a> &mdash; <em>Progress in Neurobiology</em></li>
 </ul>
 
 ## Methods
