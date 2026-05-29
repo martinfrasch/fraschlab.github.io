@@ -21,6 +21,8 @@ main:
         url: /research/biosensors/ecg/
       - title: "Biosensors: EEG"
         url: /research/biosensors/eeg/
+      - title: "Biosensors: Nerve Stimulation"
+        url: /research/biosensors/nerve-stimulation/
       - title: Early Life ROI
         url: /research/early-life-roi/
       - title: Impact
