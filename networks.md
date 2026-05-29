@@ -11,3 +11,4 @@ Professional organizations and societies the lab is affiliated with:
 - [Society for Neuroscience](https://www.sfn.org/)
 - [American Psychological Association](https://www.apa.org/)
 - [Postpartum Support International](https://postpartum.net/)
+- [Sigma Xi, The Scientific Research Honor Society](https://www.sigmaxi.org/)
