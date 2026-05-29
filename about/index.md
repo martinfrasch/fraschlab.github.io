@@ -37,9 +37,10 @@ title: About
 
 The lab works with researchers across multiple institutions:
 
-- **<a href="https://engineering.tamu.edu/electrical/profiles/bjyoon.html">Dr. Byung-Jun Yoon</a>, <a href="https://hautiengwu.wordpress.com/home/">Dr. Hau-tieng Wu</a>** &mdash; Technical / computational
-- **<a href="http://www.frauenklinik.med.tum.de/inhalt/ag-lobmaier">Dr. Silvia Lobmaier</a>, <a href="https://scholar.google.com/citations?user=eBglkdAAAAAJ&hl=de">Dr. Reinhard Bauer</a>, <a href="https://www.columbiapsychiatry.org/profile/william-fifer-phd">Dr. William Fifer</a>** &mdash; Clinical specialists
+- **<a href="http://www.frauenklinik.med.tum.de/inhalt/ag-lobmaier">Dr. Silvia Lobmaier</a>, <a href="https://www.ias.tum.de/en/active-fellows/antonelli-marta-cristina/">Dr. Marta Antonelli</a>, <a href="https://scholar.google.com/citations?user=eBglkdAAAAAJ&hl=de">Dr. Reinhard Bauer</a>, <a href="https://www.columbiapsychiatry.org/profile/william-fifer-phd">Dr. William Fifer</a>** &mdash; Clinical specialists
+- **<a href="https://perso.ens-lyon.fr/nicolas.garnier/">Dr. Nicolas Garnier</a>, ENS Lyon** &mdash; Applied physics, information theory
 - **Drs. Andr&eacute; Desrochers, Gilles Fecteau, Patrick Burns** &mdash; Veterinary collaborators
+- **<a href="https://engineering.tamu.edu/electrical/profiles/bjyoon.html">Dr. Byung-Jun Yoon</a>, <a href="https://hautiengwu.wordpress.com/home/">Dr. Hau-tieng Wu</a>** &mdash; Technical / computational
 - **Dr. Hermona Soreq** &mdash; Neuroscience
 - **<a href="http://www.ohri.ca/profile/aseely">Dr. Andrew Seely</a>** &mdash; Clinical research
 
