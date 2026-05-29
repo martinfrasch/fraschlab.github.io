@@ -25,9 +25,16 @@ A key finding: **stressed fetuses entrain their heartbeat to the maternal heartb
 ### From the Frasch Lab
 
 <ul class="pub-list">
+<li><a href="https://doi.org/10.3390/biology15100749">Measuring the time-scale-dependent information flow between maternal and fetal heartbeats during the third trimester: impact of fetal sex and maternal chronic stress</a> &mdash; <em>Biology</em>, 2026</li>
+<li><a href="https://doi.org/10.3390/bioengineering12111141">Heart rate variability patterns reflect yoga intervention in chronically stressed pregnant women: a quasi-randomized controlled trial</a> &mdash; <em>Bioengineering</em>, 2025</li>
+<li><a href="https://doi.org/10.1038/s41380-025-03011-2">Maternal prenatal stress induces sex-dependent changes in tRNA fragment families and cholinergic pathways in newborns</a> &mdash; <em>Molecular Psychiatry</em>, 2025</li>
+<li><a href="https://doi.org/10.1007/978-1-0716-4200-9_16">Perinatal psychoneuroimmunology of prenatal stress and its effects on fetal and postnatal brain development</a> &mdash; <em>Methods in Molecular Biology</em>, 2025</li>
+<li><a href="https://doi.org/10.3390/biology12070914">Autism spectrum disorder: a neuro-immunometabolic hypothesis of the developmental origins</a> &mdash; <em>Biology</em>, 2023</li>
+<li><a href="https://doi.org/10.1186/s13148-022-01310-x">Maternal-fetal stress and DNA methylation signatures in neonatal saliva: an epigenome-wide association study</a> &mdash; <em>Clinical Epigenetics</em>, 2022</li>
+<li><a href="https://doi.org/10.2174/1570159X19666210125150955">Early biomarkers and intervention programs for the infant exposed to prenatal stress</a> &mdash; <em>Current Neuropharmacology</em>, 2022</li>
+<li><a href="https://doi.org/10.1038/s41598-022-13633-z">Prenatal stress perturbs fetal iron homeostasis in a sex specific manner</a> &mdash; <em>Scientific Reports</em>, 2022</li>
+<li><a href="https://doi.org/10.1038/s41598-021-03376-8">Detection of maternal and fetal stress from the ECG with self-supervised representation learning</a> &mdash; <em>Scientific Reports</em>, 2021</li>
 <li><a href="https://arxiv.org/abs/2011.02000">ECG-based stress detection using machine learning</a> &mdash; arXiv preprint, 2020</li>
-<li><a href="https://arxiv.org/abs/2005.05787">Early biomarkers of prenatal stress: a review</a> &mdash; arXiv preprint, 2020</li>
-<li><a href="https://arxiv.org/abs/1909.05198">Neuroimmunometabolic hypothesis of autism spectrum disorder</a> &mdash; arXiv preprint, 2019</li>
 <li><a href="https://arxiv.org/abs/1904.06377">Vitamin D and cortisol interactions in prenatal stress</a> &mdash; arXiv preprint, 2019</li>
 <li><a href="https://arxiv.org/abs/1902.09746">Maternal stress biomarkers via fetal-maternal ECG</a> &mdash; arXiv preprint, 2019</li>
 <li><a href="https://arxiv.org/abs/1901.00099">Microglial memory of prenatal inflammatory stress</a> &mdash; arXiv preprint, 2019</li>

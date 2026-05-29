@@ -18,6 +18,8 @@ Using juvenile pig models, we demonstrated that cortico-cortical EEG signals can
 ### From the Frasch Lab
 
 <ul class="pub-list">
+<li><a href="https://doi.org/10.1111/1471-0528.18097">Advancements in fetal heart rate monitoring: opportunities and strategic initiatives for better intrapartum care</a> &mdash; <em>BJOG</em>, 2025</li>
+<li><a href="https://doi.org/10.1038/s41597-021-01029-z">Update to the dataset of cerebral ischemia in juvenile pigs with evoked potentials</a> &mdash; Frasch et al., <em>Scientific Data</em>, 2021</li>
 <li><a href="https://www.nature.com/articles/s41597-020-00781-y">Multimodal pathophysiological dataset of cerebral ischemia in juvenile pigs</a> &mdash; Frasch et al., <em>Scientific Data</em>, 2021</li>
 <li><a href="https://www.frontiersin.org/articles/10.3389/fped.2020.00584/full">Fetal brain monitoring during labour</a> &mdash; Castel et al., <em>Frontiers in Pediatrics</em>, 2020</li>
 <li><a href="https://arxiv.org/abs/2005.13618">Fetal EEG monitoring review</a> &mdash; arXiv preprint, 2020</li>

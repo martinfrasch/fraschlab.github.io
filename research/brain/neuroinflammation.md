@@ -14,6 +14,12 @@ The connection between brain and innate immune system occurs via the vagus nerve
 #### From the Frasch Lab
 
 <ul class="pub-list">
+<li><a href="https://doi.org/10.1007/978-1-0716-4200-9_15">Microglial and macrophage plasticity and regional cerebral blood flow in the prenatal brain and gut under vagus nerve stimulation</a> &mdash; <em>Methods in Molecular Biology</em>, 2025</li>
+<li><a href="https://doi.org/10.3390/biology13010038">The vagus nerve regulates immunometabolic homeostasis in the ovine fetus near term: the impact on terminal ileum</a> &mdash; <em>Biology</em>, 2024</li>
+<li><a href="https://doi.org/10.3389/fimmu.2022.930445">Heart rate as a non-invasive biomarker of inflammation: implications for digital health</a> &mdash; <em>Frontiers in Immunology</em>, 2022</li>
+<li><a href="https://doi.org/10.7759/cureus.32632">Factors determining the success of the chronically instrumented non-anesthetized fetal sheep model of human development</a> &mdash; <em>Cureus</em>, 2022</li>
+<li><a href="https://doi.org/10.3389/fnins.2021.721605">A review on the vagus nerve and autonomic nervous system during fetal development: searching for critical windows</a> &mdash; <em>Frontiers in Neuroscience</em>, 2021</li>
+<li><a href="https://doi.org/10.1016/j.jneumeth.2021.109257">Recording and manipulation of vagus nerve electrical activity in chronically instrumented unanesthetized near-term fetal sheep</a> &mdash; <em>Journal of Neuroscience Methods</em>, 2021</li>
 <li><a href="https://www.frontiersin.org/articles/10.3389/fimmu.2019.01063/full">Fetal cholinergic anti-inflammatory pathway</a> &mdash; Cao et al., <em>Frontiers in Immunology</em>, 2019</li>
 <li><a href="https://arxiv.org/abs/1812.06617">Neuroinflammation and cholinergic signaling preprint</a> &mdash; arXiv preprint, 2018</li>
 <li><a href="https://abstractsonline.com/pp8/#!/4649/presentation/29555">SfN 2018 abstract: Cholinergic modulation of neuroinflammation</a></li>

@@ -14,7 +14,14 @@ Using fetal sheep models, we demonstrated that fetal HRV functions as a non-inva
 ### From the Frasch Lab
 
 <ul class="pub-list">
-<li><a href="https://arxiv.org/abs/1911.01304"><strong>Gold et al. (2019)</strong></a> &mdash; Developed predictive models for fetal cardiovascular decompensation during labor. arXiv preprint</li>
+<li><a href="https://doi.org/10.1111/1471-0528.18371"><strong>Frasch et al. (2025)</strong></a> &mdash; Global challenges in data collection to reduce adverse perinatal outcomes, including hypoxic-ischaemic encephalopathy. <em>BJOG</em></li>
+<li><a href="https://doi.org/10.1111/1471-0528.16674"><strong>Frasch et al. (2021)</strong></a> &mdash; Fetal cerebral perfusion is better than fetal acidaemia for the prediction of brain injury and might be assessable by sophisticated fetal heart rate metrics. <em>BJOG</em></li>
+<li><a href="https://doi.org/10.1016/j.eclinm.2021.100994"><strong>Frasch et al. (2021)</strong></a> &mdash; Heart during acidosis: etiology and early detection of cardiac dysfunction. <em>EClinicalMedicine</em></li>
+<li><a href="https://doi.org/10.3389/fped.2021.660476"><strong>Frasch et al. (2021)</strong></a> &mdash; Distance to healthy metabolic and cardiovascular dynamics from fetal heart rate scale-dependent features predicts the evolution of acidemia and cardiovascular decompensation. <em>Frontiers in Pediatrics</em></li>
+<li><a href="https://doi.org/10.3389/fped.2021.593889"><strong>Gold, Frasch et al. (2021)</strong></a> &mdash; Fetal cardiovascular decompensation during labor predicted from the individual heart rate tracing: a machine learning approach in near-term fetal sheep. <em>Frontiers in Pediatrics</em></li>
+<li><a href="https://doi.org/10.1152/ajpregu.00051.2021"><strong>Frasch (2021)</strong></a> &mdash; Bezold-Jarisch reflex in the near-term fetus during labor: a matter of time (Letter to the Editor). <em>Am J Physiol Regul Integr Comp Physiol</em></li>
+<li><a href="https://doi.org/10.1038/s41597-021-01029-z"><strong>Frasch et al. (2021)</strong></a> &mdash; Update to the dataset of cerebral ischemia in juvenile pigs with evoked potentials. <em>Scientific Data</em></li>
+<li><a href="https://doi.org/10.1038/s41597-020-00781-y"><strong>Frasch et al. (2021)</strong></a> &mdash; Multimodal pathophysiological dataset of gradual cerebral ischemia in a cohort of juvenile pigs. <em>Scientific Data</em></li>
 <li><a href="https://doi.org/10.3389/fphys.2017.01112"><strong>Gold, Frasch et al. (2018)</strong></a> &mdash; Introduced stochastic change-point detection algorithms for biological signal analysis. <em>Frontiers in Physiology</em></li>
 <li><a href="https://doi.org/10.1101/106088">Fetal brain injury detection via HRV</a> &mdash; bioRxiv preprint, 2017</li>
 <li><a href="http://iopscience.iop.org/article/10.1088/0967-3334/36/5/L1/meta"><strong>Li et al. (2015)</strong></a> &mdash; Confirmed sampling frequency effects on pH and base excess prediction. <em>Physiol Meas.</em> 36(5):L1-12</li>
