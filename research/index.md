@@ -40,6 +40,11 @@ The Frasch Lab investigates maternal-fetal physiology and neuroscience across se
 <p>Fetal EEG monitoring during labor to predict severe acidemia and prevent brain injury.</p>
 </div>
 
+<div class="card">
+<h3><a href="{{ '/research/biosensors/nerve-stimulation/' | relative_url }}">Nerve Stimulation</a></h3>
+<p>Vagus nerve stimulation to combat sepsis.</p>
+</div>
+
 </div>
 
 ## minAction.net
