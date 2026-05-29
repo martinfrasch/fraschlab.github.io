@@ -4,6 +4,11 @@ title: "Blog"
 ---
 
 <div class="news-item">
+<h3><a href="https://kevinmd.com/2026/03/artificial-intelligence-and-the-future-of-fetal-heart-rate-monitoring.html">AI &amp; the Future of Fetal Heart Rate Monitoring</a></h3>
+<p>Writing in <em>KevinMD</em>, Drs. Martin G. Frasch, Mark I. Evans, and Philip J. Steer argue that conventional electronic fetal monitoring has driven unnecessary cesarean sections without reducing cerebral palsy. They make the case for AI-powered analysis of fetal heart rate variability and a Fetal Reserve Index to enable earlier, data-driven intervention. <a href="https://kevinmd.com/2026/03/artificial-intelligence-and-the-future-of-fetal-heart-rate-monitoring.html">Read the full piece &rarr;</a></p>
+</div>
+
+<div class="news-item">
 <h3>ECG Monitor in Pregnancy</h3>
 <p>Most women are OK wearing an <a href="https://newsroom.uw.edu/postscript/most-women-ok-wearing-ecg-monitor-pregnancy">ECG monitor in pregnancy</a>, according to UW research. Detecting chronic stress during pregnancy using ECG monitoring technology opens new doors for prenatal care.</p>
 </div>
