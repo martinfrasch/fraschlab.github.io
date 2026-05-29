@@ -14,18 +14,18 @@ The connection between brain and innate immune system occurs via the vagus nerve
 #### From the Frasch Lab
 
 <ul class="pub-list">
-<li><strong>Durosier et al. (2013)</strong> &mdash; Documented "neural signature of cerebral activity" of the fetal cholinergic pathway using heart rate variability analysis</li>
-<li><a href="http://journal.frontiersin.org/article/10.3389/fnint.2013.00057/full"><strong>Garzoni et al. (2013)</strong></a> &mdash; Explored the "brain-gut connection" in utero regarding necrotizing enterocolitis. <em>Frontiers in Integrative Neuroscience</em></li>
-<li><a href="https://rdcu.be/6lVL"><strong>Frasch et al. (2016)</strong></a> &mdash; "Decreased neuroinflammation correlates to higher vagus nerve activity fluctuations" in near-term fetal sheep. <em>Journal of Neuroinflammation</em></li>
-<li><a href="http://bioelecmed.org/articles/item/4/37">Vagus nerve stimulation and bioelectronic medicine</a> &mdash; <em>Bioelectronic Medicine</em></li>
-<li><a href="https://www.jove.com/video/52581/instrumentation-near-term-fetal-sheep-for-multivariate-chronic-non">Instrumentation of near-term fetal sheep for multivariate chronic non-invasive monitoring</a> &mdash; <em>JoVE</em></li>
-<li><a href="http://journal.frontiersin.org/article/10.3389/fncel.2015.00294/full"><strong>Cao et al. (2015)</strong></a> &mdash; Fetal microglial inflammatory responses. <em>Frontiers in Cellular Neuroscience</em></li>
+<li><a href="https://www.frontiersin.org/articles/10.3389/fimmu.2019.01063/full">Fetal cholinergic anti-inflammatory pathway</a> &mdash; Cao et al., <em>Frontiers in Immunology</em>, 2019</li>
+<li><a href="https://arxiv.org/abs/1812.06617">Neuroinflammation and cholinergic signaling preprint</a> &mdash; arXiv preprint, 2018</li>
+<li><a href="https://abstractsonline.com/pp8/#!/4649/presentation/29555">SfN 2018 abstract: Cholinergic modulation of neuroinflammation</a></li>
+<li><a href="http://dx.doi.org/10.1038/protex.2018.013"><strong>Cao et al. (2018)</strong></a> &mdash; Protocol for fetal microglial culture. <em>Protocol Exchange</em></li>
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5359012/">RNAseq analysis of fetal microglia</a> &mdash; Cortes et al., <em>J Neurosci Methods</em>, 2017</li>
 <li><a href="https://doi.org/10.1101/097295">Alpha-7 nicotinic acetylcholine receptor modulation of inflammation</a> &mdash; bioRxiv preprint (published as Cortes et al., <em>Sci Rep</em>, 2017)</li>
-<li><a href="http://dx.doi.org/10.1038/protex.2018.013"><strong>Cao et al. (2018)</strong></a> &mdash; Protocol for fetal microglial culture. <em>Protocol Exchange</em></li>
-<li><a href="https://abstractsonline.com/pp8/#!/4649/presentation/29555">SfN 2018 abstract: Cholinergic modulation of neuroinflammation</a></li>
-<li><a href="https://arxiv.org/abs/1812.06617">Neuroinflammation and cholinergic signaling preprint</a> &mdash; arXiv preprint</li>
-<li><a href="https://www.frontiersin.org/articles/10.3389/fimmu.2019.01063/full">Fetal cholinergic anti-inflammatory pathway</a> &mdash; Cao et al., <em>Frontiers in Immunology</em>, 2019</li>
+<li><a href="https://rdcu.be/6lVL"><strong>Frasch et al. (2016)</strong></a> &mdash; "Decreased neuroinflammation correlates to higher vagus nerve activity fluctuations" in near-term fetal sheep. <em>Journal of Neuroinflammation</em></li>
+<li><a href="http://bioelecmed.org/articles/item/4/37">Vagus nerve stimulation and bioelectronic medicine</a> &mdash; <em>Bioelectronic Medicine</em>, 2016</li>
+<li><a href="http://journal.frontiersin.org/article/10.3389/fncel.2015.00294/full"><strong>Cao et al. (2015)</strong></a> &mdash; Fetal microglial inflammatory responses. <em>Frontiers in Cellular Neuroscience</em></li>
+<li><a href="https://www.jove.com/video/52581/instrumentation-near-term-fetal-sheep-for-multivariate-chronic-non">Instrumentation of near-term fetal sheep for multivariate chronic non-invasive monitoring</a> &mdash; <em>JoVE</em>, 2015</li>
+<li><strong>Durosier et al. (2013)</strong> &mdash; Documented "neural signature of cerebral activity" of the fetal cholinergic pathway using heart rate variability analysis</li>
+<li><a href="http://journal.frontiersin.org/article/10.3389/fnint.2013.00057/full"><strong>Garzoni et al. (2013)</strong></a> &mdash; Explored the "brain-gut connection" in utero regarding necrotizing enterocolitis. <em>Frontiers in Integrative Neuroscience</em></li>
 </ul>
 
 #### Supporting Research from the Field

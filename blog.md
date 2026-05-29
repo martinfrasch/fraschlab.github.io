@@ -14,8 +14,8 @@ title: "Blog"
 </div>
 
 <div class="news-item">
-<h3>Chronic Stress & Fetal Iron (July 2022)</h3>
-<p>Research indicates that <a href="https://rdcu.be/cRFh5">chronic stress in the third trimester reduces baby's iron</a> as measured at birth, with findings published in <em>Scientific Reports</em>. This work received coverage on <a href="https://www.kuow.org/stories/chronic-stress-in-pregnancy-reduces-babies-iron">KUOW (Seattle NPR)</a>, discussing pregnancy health and stress impacts on fetal development.</p>
+<h3>Chronic Stress & Fetal Iron (June 2022)</h3>
+<p>Research indicates that <a href="https://www.nature.com/articles/s41598-022-13633-z">chronic stress in the third trimester reduces baby's iron</a> as measured at birth, with findings published in <em>Scientific Reports</em>. This work received coverage on <a href="https://www.kuow.org/stories/chronic-stress-in-pregnancy-reduces-babies-iron">KUOW (Seattle NPR)</a>, discussing pregnancy health and stress impacts on fetal development.</p>
 </div>
 
 <div class="news-item">

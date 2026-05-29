@@ -25,15 +25,15 @@ A key finding: **stressed fetuses entrain their heartbeat to the maternal heartb
 ### From the Frasch Lab
 
 <ul class="pub-list">
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5179252/">Perinatal stress and fetal programming</a> &mdash; Shapiro, Fraser, Frasch, Séguin, <em>J Perinat Med</em>, 2013</li>
+<li><a href="https://arxiv.org/abs/2011.02000">ECG-based stress detection using machine learning</a> &mdash; arXiv preprint, 2020</li>
+<li><a href="https://arxiv.org/abs/2005.05787">Early biomarkers of prenatal stress: a review</a> &mdash; arXiv preprint, 2020</li>
+<li><a href="https://arxiv.org/abs/1909.05198">Neuroimmunometabolic hypothesis of autism spectrum disorder</a> &mdash; arXiv preprint, 2019</li>
+<li><a href="https://arxiv.org/abs/1904.06377">Vitamin D and cortisol interactions in prenatal stress</a> &mdash; arXiv preprint, 2019</li>
+<li><a href="https://arxiv.org/abs/1902.09746">Maternal stress biomarkers via fetal-maternal ECG</a> &mdash; arXiv preprint, 2019</li>
+<li><a href="https://arxiv.org/abs/1901.00099">Microglial memory of prenatal inflammatory stress</a> &mdash; arXiv preprint, 2019</li>
 <li><a href="https://www.frontiersin.org/articles/10.3389/fphys.2018.01044/full">Placental calcification and prenatal stress markers</a> &mdash; Wallingford et al., <em>Frontiers in Physiology</em>, 2018</li>
-<li><a href="https://arxiv.org/abs/1801.00257">Neurobiology of prenatal stress effects</a> &mdash; arXiv preprint</li>
-<li><a href="https://arxiv.org/abs/1901.00099">Microglial memory of prenatal inflammatory stress</a> &mdash; arXiv preprint</li>
-<li><a href="https://arxiv.org/abs/1902.09746">Maternal stress biomarkers via fetal-maternal ECG</a> &mdash; arXiv preprint</li>
-<li><a href="https://arxiv.org/abs/1909.05198">Neuroimmunometabolic hypothesis of autism spectrum disorder</a> &mdash; arXiv preprint</li>
-<li><a href="https://arxiv.org/abs/1904.06377">Vitamin D and cortisol interactions in prenatal stress</a> &mdash; arXiv preprint</li>
-<li><a href="https://arxiv.org/abs/2005.05787">Early biomarkers of prenatal stress: a review</a> &mdash; arXiv preprint</li>
-<li><a href="https://arxiv.org/abs/2011.02000">ECG-based stress detection using machine learning</a> &mdash; arXiv preprint</li>
+<li><a href="https://arxiv.org/abs/1801.00257">Neurobiology of prenatal stress effects</a> &mdash; arXiv preprint, 2018</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5179252/">Perinatal stress and fetal programming</a> &mdash; Shapiro, Fraser, Frasch, Séguin, <em>J Perinat Med</em>, 2013</li>
 </ul>
 
 ### Supporting Research from the Field
