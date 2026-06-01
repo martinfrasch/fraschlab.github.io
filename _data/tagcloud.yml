@@ -1,55 +1,55 @@
 # Research keyword frequencies - extracted from PubMed publication titles and abstracts
 # Auto-updated monthly via GitHub Actions
-# Last updated: 2026-05-01
+# Last updated: 2026-06-01
 
 - word: fetal
   weight: 95
 - word: university
-  weight: 79
-- word: department
   weight: 78
+- word: department
+  weight: 77
 - word: doi
-  weight: 60
+  weight: 59
 - word: canada
   weight: 45
 - word: obstetrics
   weight: 41
 - word: research
-  weight: 39
+  weight: 38
 - word: information
-  weight: 33
+  weight: 34
 - word: frasch
   weight: 32
 - word: gynecology
   weight: 31
-- word: author
-  weight: 31
 - word: rate
+  weight: 31
+- word: author
   weight: 30
 - word: montr
-  weight: 30
-- word: pmid
-  weight: 28
+  weight: 29
 - word: heart
+  weight: 28
+- word: pmid
   weight: 27
+- word: medicine
+  weight: 25
 - word: washington
   weight: 24
-- word: medicine
-  weight: 24
-- word: development
-  weight: 24
-- word: health
-  weight: 24
-- word: brain
-  weight: 24
+- word: time
+  weight: 23
 - word: seattle
   weight: 23
-- word: time
+- word: development
+  weight: 23
+- word: health
+  weight: 23
+- word: brain
   weight: 23
 - word: usa
   weight: 23
 - word: human
-  weight: 23
+  weight: 22
 - word: fhr
   weight: 22
 - word: universit
@@ -58,9 +58,11 @@
   weight: 21
 - word: institute
   weight: 20
+- word: center
+  weight: 20
 - word: variability
   weight: 20
-- word: center
+- word: monitoring
   weight: 20
 - word: model
   weight: 20
@@ -68,49 +70,49 @@
   weight: 20
 - word: medline
   weight: 20
-- word: monitoring
-  weight: 20
 - word: sheep
+  weight: 20
+- word: maternal
   weight: 20
 - word: data
   weight: 20
 - word: clinical
   weight: 20
-- word: maternal
+- word: stress
   weight: 20
 - word: justine
   weight: 20
-- word: chu
-  weight: 20
-- word: fhrv
+- word: term
   weight: 20
 - word: pmcid
   weight: 20
 - word: pmc
   weight: 20
-- word: term
+- word: chu
+  weight: 20
+- word: fhrv
   weight: 20
 - word: fetuses
   weight: 20
-- word: ecg
-  weight: 20
 - word: montreal
-  weight: 20
-- word: inflammatory
   weight: 20
 - word: interest
   weight: 20
-- word: stress
+- word: ecg
+  weight: 20
+- word: inflammatory
   weight: 20
 - word: early
   weight: 20
-- word: hrv
-  weight: 20
 - word: analysis
+  weight: 20
+- word: hrv
   weight: 20
 - word: germany
   weight: 20
 - word: response
+  weight: 20
+- word: states
   weight: 20
 - word: lps
   weight: 20
@@ -118,13 +120,11 @@
   weight: 20
 - word: ontario
   weight: 20
-- word: states
-  weight: 20
-- word: near
-  weight: 20
 - word: munich
   weight: 20
 - word: conflict
+  weight: 20
+- word: near
   weight: 20
 - word: inflammation
   weight: 20
@@ -132,13 +132,19 @@
   weight: 20
 - word: activity
   weight: 20
+- word: faculty
+  weight: 20
 - word: fetus
   weight: 20
-- word: faculty
+- word: complexity
   weight: 20
 - word: ste
   weight: 20
-- word: complexity
+- word: hospital
+  weight: 20
+- word: school
+  weight: 20
+- word: united
   weight: 20
 - word: western
   weight: 20
@@ -148,17 +154,11 @@
   weight: 20
 - word: uco
   weight: 20
-- word: chronically
+- word: signal
   weight: 20
-- word: hospital
-  weight: 20
-- word: labor
-  weight: 20
-- word: epub
-  weight: 20
-- word: united
-  weight: 20
-- word: vagus
+- word: measures
   weight: 20
 - word: pregnancy
+  weight: 20
+- word: chronically
   weight: 20
